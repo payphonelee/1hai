@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hai
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# 1hai
+my item
+>>>>>>> fd49f79fa146ece2aa1b3583dc4a428015bee093
